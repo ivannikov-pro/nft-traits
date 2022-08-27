@@ -1,0 +1,2429 @@
+{
+  "Traits count": {
+    "5": {
+      "count": 1,
+      "rarity": 0.01,
+      "score": 10000
+    },
+    "6": {
+      "count": 829,
+      "rarity": 8.29,
+      "score": 12.062726176115802
+    },
+    "7": {
+      "count": 3164,
+      "rarity": 31.64,
+      "score": 3.1605562579013906
+    },
+    "8": {
+      "count": 3597,
+      "rarity": 35.97,
+      "score": 2.7800945232137892
+    },
+    "9": {
+      "count": 1823,
+      "rarity": 18.23,
+      "score": 5.485463521667581
+    },
+    "10": {
+      "count": 534,
+      "rarity": 5.34,
+      "score": 18.726591760299623
+    },
+    "11": {
+      "count": 52,
+      "rarity": 0.52,
+      "score": 192.30769230769232
+    }
+  },
+  "Type": {
+    "count": 10000,
+    "rarity": 100,
+    "score": 1,
+    "None": {
+      "count": 0,
+      "rarity": 0,
+      "score": null
+    },
+    "Human": {
+      "count": 9018,
+      "rarity": 90.18,
+      "score": 1.1088933244621866
+    },
+    "Blue": {
+      "count": 444,
+      "rarity": 4.44,
+      "score": 22.52252252252252
+    },
+    "Red": {
+      "count": 441,
+      "rarity": 4.41,
+      "score": 22.675736961451246
+    },
+    "Spirit": {
+      "count": 97,
+      "rarity": 0.97,
+      "score": 103.09278350515464
+    }
+  },
+  "Hair": {
+    "count": 9992,
+    "rarity": 99.92,
+    "score": 1.00080064051241,
+    "None": {
+      "count": 8,
+      "rarity": 0.08,
+      "score": 1250
+    },
+    "Water": {
+      "count": 21,
+      "rarity": 0.21,
+      "score": 476.1904761904762
+    },
+    "Pink Hairband": {
+      "count": 77,
+      "rarity": 0.77,
+      "score": 129.87012987012986
+    },
+    "Pink Flowy": {
+      "count": 87,
+      "rarity": 0.87,
+      "score": 114.9425287356322
+    },
+    "Green Spiky": {
+      "count": 117,
+      "rarity": 1.17,
+      "score": 85.47008547008546
+    },
+    "Brown Dreadlocks": {
+      "count": 21,
+      "rarity": 0.21,
+      "score": 476.1904761904762
+    },
+    "Blonde Swept Back": {
+      "count": 98,
+      "rarity": 0.98,
+      "score": 102.04081632653062
+    },
+    "Teal Bun": {
+      "count": 109,
+      "rarity": 1.09,
+      "score": 91.74311926605505
+    },
+    "Orange Samurai": {
+      "count": 98,
+      "rarity": 0.98,
+      "score": 102.04081632653062
+    },
+    "Silver Pixie": {
+      "count": 82,
+      "rarity": 0.82,
+      "score": 121.95121951219511
+    },
+    "Silver Spiky": {
+      "count": 73,
+      "rarity": 0.73,
+      "score": 136.986301369863
+    },
+    "Green Samurai": {
+      "count": 100,
+      "rarity": 1,
+      "score": 100
+    },
+    "Orange Swept Back": {
+      "count": 90,
+      "rarity": 0.9,
+      "score": 111.11111111111111
+    },
+    "Teal Long": {
+      "count": 103,
+      "rarity": 1.03,
+      "score": 97.08737864077669
+    },
+    "Blonde Bob": {
+      "count": 80,
+      "rarity": 0.8,
+      "score": 125
+    },
+    "Purple Bun": {
+      "count": 108,
+      "rarity": 1.08,
+      "score": 92.59259259259258
+    },
+    "Braids": {
+      "count": 32,
+      "rarity": 0.32,
+      "score": 312.5
+    },
+    "Silver Disheveled": {
+      "count": 88,
+      "rarity": 0.88,
+      "score": 113.63636363636363
+    },
+    "Black Disheveled": {
+      "count": 115,
+      "rarity": 1.15,
+      "score": 86.95652173913044
+    },
+    "Silver Bun": {
+      "count": 91,
+      "rarity": 0.91,
+      "score": 109.89010989010988
+    },
+    "Blue Half Bun": {
+      "count": 104,
+      "rarity": 1.04,
+      "score": 96.15384615384616
+    },
+    "Powder Blue Swept Back": {
+      "count": 84,
+      "rarity": 0.84,
+      "score": 119.04761904761905
+    },
+    "Blue Short Spiky": {
+      "count": 119,
+      "rarity": 1.19,
+      "score": 84.03361344537815
+    },
+    "Black Hairband": {
+      "count": 77,
+      "rarity": 0.77,
+      "score": 129.87012987012986
+    },
+    "Maroon Bun": {
+      "count": 150,
+      "rarity": 1.5,
+      "score": 66.66666666666667
+    },
+    "Maroon Half Bun": {
+      "count": 103,
+      "rarity": 1.03,
+      "score": 97.08737864077669
+    },
+    "Brown Blonde Flowy": {
+      "count": 34,
+      "rarity": 0.34,
+      "score": 294.11764705882354
+    },
+    "Brown Messy": {
+      "count": 88,
+      "rarity": 0.88,
+      "score": 113.63636363636363
+    },
+    "Brown Disheveled": {
+      "count": 113,
+      "rarity": 1.13,
+      "score": 88.49557522123894
+    },
+    "Blue Nightshade Flowy": {
+      "count": 33,
+      "rarity": 0.33,
+      "score": 303.03030303030306
+    },
+    "Teal Hairband": {
+      "count": 107,
+      "rarity": 1.07,
+      "score": 93.45794392523365
+    },
+    "Orange Short Spiky": {
+      "count": 117,
+      "rarity": 1.17,
+      "score": 85.47008547008546
+    },
+    "Buzzcut": {
+      "count": 115,
+      "rarity": 1.15,
+      "score": 86.95652173913044
+    },
+    "Pink Bangs": {
+      "count": 51,
+      "rarity": 0.51,
+      "score": 196.078431372549
+    },
+    "Indigo Bangs": {
+      "count": 84,
+      "rarity": 0.84,
+      "score": 119.04761904761905
+    },
+    "Brown Long": {
+      "count": 134,
+      "rarity": 1.34,
+      "score": 74.6268656716418
+    },
+    "Blonde Long": {
+      "count": 120,
+      "rarity": 1.2,
+      "score": 83.33333333333333
+    },
+    "Orange Pixie": {
+      "count": 100,
+      "rarity": 1,
+      "score": 100
+    },
+    "Blonde Flowy": {
+      "count": 114,
+      "rarity": 1.14,
+      "score": 87.71929824561403
+    },
+    "Purple Dreadlocks": {
+      "count": 41,
+      "rarity": 0.41,
+      "score": 243.90243902439022
+    },
+    "Indigo Ponytail": {
+      "count": 114,
+      "rarity": 1.14,
+      "score": 87.71929824561403
+    },
+    "Purple Spiky": {
+      "count": 115,
+      "rarity": 1.15,
+      "score": 86.95652173913044
+    },
+    "Brown Samurai": {
+      "count": 98,
+      "rarity": 0.98,
+      "score": 102.04081632653062
+    },
+    "Maroon Disheveled": {
+      "count": 133,
+      "rarity": 1.33,
+      "score": 75.18796992481204
+    },
+    "Violet Flowy": {
+      "count": 97,
+      "rarity": 0.97,
+      "score": 103.09278350515464
+    },
+    "Brown Fluffy": {
+      "count": 52,
+      "rarity": 0.52,
+      "score": 192.30769230769232
+    },
+    "Brown Ponytail": {
+      "count": 107,
+      "rarity": 1.07,
+      "score": 93.45794392523365
+    },
+    "Green Fluffy": {
+      "count": 61,
+      "rarity": 0.61,
+      "score": 163.93442622950818
+    },
+    "Silver Short Spiky": {
+      "count": 90,
+      "rarity": 0.9,
+      "score": 111.11111111111111
+    },
+    "Magenta Flowy": {
+      "count": 110,
+      "rarity": 1.1,
+      "score": 90.90909090909092
+    },
+    "Black Swept Back": {
+      "count": 68,
+      "rarity": 0.68,
+      "score": 147.05882352941177
+    },
+    "Blonde Short Spiky": {
+      "count": 124,
+      "rarity": 1.24,
+      "score": 80.64516129032258
+    },
+    "Black Bangs": {
+      "count": 75,
+      "rarity": 0.75,
+      "score": 133.33333333333334
+    },
+    "Indigo Disheveled": {
+      "count": 108,
+      "rarity": 1.08,
+      "score": 92.59259259259258
+    },
+    "Blue Bun": {
+      "count": 107,
+      "rarity": 1.07,
+      "score": 93.45794392523365
+    },
+    "Maroon Ponytail": {
+      "count": 142,
+      "rarity": 1.42,
+      "score": 70.4225352112676
+    },
+    "Silver Bangs": {
+      "count": 59,
+      "rarity": 0.59,
+      "score": 169.49152542372883
+    },
+    "Brown Flowy": {
+      "count": 95,
+      "rarity": 0.95,
+      "score": 105.26315789473685
+    },
+    "Green Half Bun": {
+      "count": 82,
+      "rarity": 0.82,
+      "score": 121.95121951219511
+    },
+    "Pink Samurai": {
+      "count": 50,
+      "rarity": 0.5,
+      "score": 200
+    },
+    "Black Fluffy": {
+      "count": 66,
+      "rarity": 0.66,
+      "score": 151.51515151515153
+    },
+    "Indigo Long": {
+      "count": 129,
+      "rarity": 1.29,
+      "score": 77.51937984496124
+    },
+    "Purple Bangs": {
+      "count": 30,
+      "rarity": 0.3,
+      "score": 333.3333333333333
+    },
+    "Brown Bangs": {
+      "count": 71,
+      "rarity": 0.71,
+      "score": 140.8450704225352
+    },
+    "Brown Spiky": {
+      "count": 142,
+      "rarity": 1.42,
+      "score": 70.4225352112676
+    },
+    "Silver Swept Back": {
+      "count": 82,
+      "rarity": 0.82,
+      "score": 121.95121951219511
+    },
+    "Magenta Messy": {
+      "count": 86,
+      "rarity": 0.86,
+      "score": 116.27906976744185
+    },
+    "Blue Bob": {
+      "count": 91,
+      "rarity": 0.91,
+      "score": 109.89010989010988
+    },
+    "Powder Blue Disheveled": {
+      "count": 89,
+      "rarity": 0.89,
+      "score": 112.35955056179776
+    },
+    "Indigo Swept Back": {
+      "count": 81,
+      "rarity": 0.81,
+      "score": 123.4567901234568
+    },
+    "Indigo Messy": {
+      "count": 87,
+      "rarity": 0.87,
+      "score": 114.9425287356322
+    },
+    "Brown Blonde Long": {
+      "count": 34,
+      "rarity": 0.34,
+      "score": 294.11764705882354
+    },
+    "Maroon Bob": {
+      "count": 131,
+      "rarity": 1.31,
+      "score": 76.33587786259541
+    },
+    "Gray Samurai": {
+      "count": 75,
+      "rarity": 0.75,
+      "score": 133.33333333333334
+    },
+    "Silver Dreadlocks": {
+      "count": 49,
+      "rarity": 0.49,
+      "score": 204.08163265306123
+    },
+    "Long Dreadlocks": {
+      "count": 82,
+      "rarity": 0.82,
+      "score": 121.95121951219511
+    },
+    "Blue Spiky": {
+      "count": 122,
+      "rarity": 1.22,
+      "score": 81.96721311475409
+    },
+    "Green Ombre Flowy": {
+      "count": 30,
+      "rarity": 0.3,
+      "score": 333.3333333333333
+    },
+    "Magenta Pigtails": {
+      "count": 120,
+      "rarity": 1.2,
+      "score": 83.33333333333333
+    },
+    "Silver Ponytail": {
+      "count": 96,
+      "rarity": 0.96,
+      "score": 104.16666666666667
+    },
+    "Powder Blue Pigtails": {
+      "count": 120,
+      "rarity": 1.2,
+      "score": 83.33333333333333
+    },
+    "Blonde Bun": {
+      "count": 110,
+      "rarity": 1.1,
+      "score": 90.90909090909092
+    },
+    "Silver Flowy": {
+      "count": 72,
+      "rarity": 0.72,
+      "score": 138.88888888888889
+    },
+    "Blue Hairband": {
+      "count": 90,
+      "rarity": 0.9,
+      "score": 111.11111111111111
+    },
+    "Purple Pigtails": {
+      "count": 98,
+      "rarity": 0.98,
+      "score": 102.04081632653062
+    },
+    "Green Ombre Bangs": {
+      "count": 57,
+      "rarity": 0.57,
+      "score": 175.43859649122805
+    },
+    "Dreadlocks": {
+      "count": 82,
+      "rarity": 0.82,
+      "score": 121.95121951219511
+    },
+    "Green Ponytail": {
+      "count": 114,
+      "rarity": 1.14,
+      "score": 87.71929824561403
+    },
+    "Blonde Messy": {
+      "count": 91,
+      "rarity": 0.91,
+      "score": 109.89010989010988
+    },
+    "Black Pigtails": {
+      "count": 99,
+      "rarity": 0.99,
+      "score": 101.010101010101
+    },
+    "Teal Bob": {
+      "count": 78,
+      "rarity": 0.78,
+      "score": 128.2051282051282
+    },
+    "Maroon Short Spiky": {
+      "count": 128,
+      "rarity": 1.28,
+      "score": 78.125
+    },
+    "Purple Half Bun": {
+      "count": 28,
+      "rarity": 0.28,
+      "score": 357.14285714285717
+    },
+    "Green Flowy": {
+      "count": 102,
+      "rarity": 1.02,
+      "score": 98.0392156862745
+    },
+    "Teal Messy": {
+      "count": 91,
+      "rarity": 0.91,
+      "score": 109.89010989010988
+    },
+    "Blue Samurai": {
+      "count": 98,
+      "rarity": 0.98,
+      "score": 102.04081632653062
+    },
+    "Black Teal Bangs": {
+      "count": 25,
+      "rarity": 0.25,
+      "score": 400
+    },
+    "Green Pigtails": {
+      "count": 94,
+      "rarity": 0.94,
+      "score": 106.38297872340425
+    },
+    "Blue Pink Ombre Flowy": {
+      "count": 44,
+      "rarity": 0.44,
+      "score": 227.27272727272725
+    },
+    "Indigo Fluffy": {
+      "count": 72,
+      "rarity": 0.72,
+      "score": 138.88888888888889
+    },
+    "Silver Hairband": {
+      "count": 58,
+      "rarity": 0.58,
+      "score": 172.41379310344828
+    },
+    "Brown Half Bun": {
+      "count": 92,
+      "rarity": 0.92,
+      "score": 108.69565217391305
+    },
+    "Blue Nightshade Half Bun": {
+      "count": 36,
+      "rarity": 0.36,
+      "score": 277.77777777777777
+    },
+    "Pink Pixie": {
+      "count": 58,
+      "rarity": 0.58,
+      "score": 172.41379310344828
+    },
+    "Green Teal Long": {
+      "count": 36,
+      "rarity": 0.36,
+      "score": 277.77777777777777
+    },
+    "Blonde Hairband": {
+      "count": 88,
+      "rarity": 0.88,
+      "score": 113.63636363636363
+    },
+    "Maroon Fluffy": {
+      "count": 76,
+      "rarity": 0.76,
+      "score": 131.57894736842104
+    },
+    "Silver Long": {
+      "count": 81,
+      "rarity": 0.81,
+      "score": 123.4567901234568
+    },
+    "Spirit Goddess": {
+      "count": 20,
+      "rarity": 0.2,
+      "score": 500
+    },
+    "Spirit Fluffy": {
+      "count": 15,
+      "rarity": 0.15,
+      "score": 666.6666666666666
+    },
+    "Black Pink Long": {
+      "count": 40,
+      "rarity": 0.4,
+      "score": 250
+    },
+    "Teal Bangs": {
+      "count": 74,
+      "rarity": 0.74,
+      "score": 135.13513513513513
+    },
+    "Indigo Pixie": {
+      "count": 99,
+      "rarity": 0.99,
+      "score": 101.010101010101
+    },
+    "Silver Half Bun": {
+      "count": 56,
+      "rarity": 0.56,
+      "score": 178.57142857142858
+    },
+    "Magenta Long": {
+      "count": 131,
+      "rarity": 1.31,
+      "score": 76.33587786259541
+    },
+    "Blonde Pixie": {
+      "count": 93,
+      "rarity": 0.93,
+      "score": 107.52688172043011
+    },
+    "Black Orange Bangs": {
+      "count": 23,
+      "rarity": 0.23,
+      "score": 434.7826086956522
+    },
+    "Spirit Bob": {
+      "count": 12,
+      "rarity": 0.12,
+      "score": 833.3333333333334
+    },
+    "Silver Bob": {
+      "count": 70,
+      "rarity": 0.7,
+      "score": 142.85714285714286
+    },
+    "Spirit Spiky": {
+      "count": 22,
+      "rarity": 0.22,
+      "score": 454.5454545454545
+    },
+    "Spirit Ponytail": {
+      "count": 15,
+      "rarity": 0.15,
+      "score": 666.6666666666666
+    },
+    "Fire": {
+      "count": 22,
+      "rarity": 0.22,
+      "score": 454.5454545454545
+    },
+    "Spirit Long": {
+      "count": 12,
+      "rarity": 0.12,
+      "score": 833.3333333333334
+    },
+    "Black Blonde Half Bun": {
+      "count": 12,
+      "rarity": 0.12,
+      "score": 833.3333333333334
+    }
+  },
+  "Clothing": {
+    "count": 9995,
+    "rarity": 99.95,
+    "score": 1.0005002501250624,
+    "None": {
+      "count": 5,
+      "rarity": 0.05,
+      "score": 2000
+    },
+    "Pink Oversized Kimono": {
+      "count": 71,
+      "rarity": 0.71,
+      "score": 140.8450704225352
+    },
+    "White Qipao with Fur": {
+      "count": 84,
+      "rarity": 0.84,
+      "score": 119.04761904761905
+    },
+    "Vest": {
+      "count": 160,
+      "rarity": 1.6,
+      "score": 62.5
+    },
+    "Green Yukata": {
+      "count": 208,
+      "rarity": 2.08,
+      "score": 48.07692307692308
+    },
+    "Red Perfecto Jacket": {
+      "count": 83,
+      "rarity": 0.83,
+      "score": 120.48192771084337
+    },
+    "Alpine Jacket": {
+      "count": 115,
+      "rarity": 1.15,
+      "score": 86.95652173913044
+    },
+    "Light Kimono": {
+      "count": 311,
+      "rarity": 3.11,
+      "score": 32.154340836012864
+    },
+    "Hoodie": {
+      "count": 148,
+      "rarity": 1.48,
+      "score": 67.56756756756756
+    },
+    "White Yukata": {
+      "count": 167,
+      "rarity": 1.67,
+      "score": 59.880239520958085
+    },
+    "Blue Kimono": {
+      "count": 212,
+      "rarity": 2.12,
+      "score": 47.16981132075472
+    },
+    "White Hoodie": {
+      "count": 109,
+      "rarity": 1.09,
+      "score": 91.74311926605505
+    },
+    "Black Yukata": {
+      "count": 207,
+      "rarity": 2.07,
+      "score": 48.309178743961354
+    },
+    "Black Perfecto Jacket": {
+      "count": 35,
+      "rarity": 0.35,
+      "score": 285.7142857142857
+    },
+    "Denim Jacket": {
+      "count": 82,
+      "rarity": 0.82,
+      "score": 121.95121951219511
+    },
+    "Red Kimono": {
+      "count": 95,
+      "rarity": 0.95,
+      "score": 105.26315789473685
+    },
+    "Red Qipao with Fur": {
+      "count": 82,
+      "rarity": 0.82,
+      "score": 121.95121951219511
+    },
+    "Camo Hoodie": {
+      "count": 80,
+      "rarity": 0.8,
+      "score": 125
+    },
+    "Azuki Tech Jacket": {
+      "count": 199,
+      "rarity": 1.99,
+      "score": 50.25125628140703
+    },
+    "Black Qipao": {
+      "count": 126,
+      "rarity": 1.26,
+      "score": 79.36507936507937
+    },
+    "Turquoise Kimono": {
+      "count": 208,
+      "rarity": 2.08,
+      "score": 48.07692307692308
+    },
+    "Cloud Poncho": {
+      "count": 42,
+      "rarity": 0.42,
+      "score": 238.0952380952381
+    },
+    "Blue Qipao": {
+      "count": 117,
+      "rarity": 1.17,
+      "score": 85.47008547008546
+    },
+    "Kimono with Jacket": {
+      "count": 116,
+      "rarity": 1.16,
+      "score": 86.20689655172414
+    },
+    "Azuki Sweater": {
+      "count": 129,
+      "rarity": 1.29,
+      "score": 77.51937984496124
+    },
+    "Red Hoodie": {
+      "count": 168,
+      "rarity": 1.68,
+      "score": 59.523809523809526
+    },
+    "Red Floral Kimono": {
+      "count": 182,
+      "rarity": 1.82,
+      "score": 54.94505494505494
+    },
+    "Dress Shirt": {
+      "count": 155,
+      "rarity": 1.55,
+      "score": 64.51612903225806
+    },
+    "Maroon Yukata": {
+      "count": 221,
+      "rarity": 2.21,
+      "score": 45.24886877828054
+    },
+    "Black Kimono": {
+      "count": 129,
+      "rarity": 1.29,
+      "score": 77.51937984496124
+    },
+    "Camo Tech Jacket": {
+      "count": 80,
+      "rarity": 0.8,
+      "score": 125
+    },
+    "Light Armor": {
+      "count": 142,
+      "rarity": 1.42,
+      "score": 70.4225352112676
+    },
+    "Straw Poncho": {
+      "count": 41,
+      "rarity": 0.41,
+      "score": 243.90243902439022
+    },
+    "Turquoise Kimono with Bow": {
+      "count": 178,
+      "rarity": 1.78,
+      "score": 56.17977528089888
+    },
+    "Frog T-Shirt": {
+      "count": 94,
+      "rarity": 0.94,
+      "score": 106.38297872340425
+    },
+    "Brown Yukata": {
+      "count": 107,
+      "rarity": 1.07,
+      "score": 93.45794392523365
+    },
+    "Hoshi Jacket": {
+      "count": 122,
+      "rarity": 1.22,
+      "score": 81.96721311475409
+    },
+    "Black Ninja Top": {
+      "count": 122,
+      "rarity": 1.22,
+      "score": 81.96721311475409
+    },
+    "Yellow Jumpsuit": {
+      "count": 24,
+      "rarity": 0.24,
+      "score": 416.6666666666667
+    },
+    "Bloody Bomber": {
+      "count": 128,
+      "rarity": 1.28,
+      "score": 78.125
+    },
+    "Sloth Kimono": {
+      "count": 47,
+      "rarity": 0.47,
+      "score": 212.7659574468085
+    },
+    "Black Hoodie": {
+      "count": 137,
+      "rarity": 1.37,
+      "score": 72.99270072992701
+    },
+    "Suit with Turtleneck": {
+      "count": 136,
+      "rarity": 1.36,
+      "score": 73.52941176470588
+    },
+    "White T-Shirt": {
+      "count": 167,
+      "rarity": 1.67,
+      "score": 59.880239520958085
+    },
+    "Cat Kimono": {
+      "count": 68,
+      "rarity": 0.68,
+      "score": 147.05882352941177
+    },
+    "Cat Yukata": {
+      "count": 36,
+      "rarity": 0.36,
+      "score": 277.77777777777777
+    },
+    "Tank Top with Jacket": {
+      "count": 117,
+      "rarity": 1.17,
+      "score": 85.47008547008546
+    },
+    "Yellow Bikini": {
+      "count": 94,
+      "rarity": 0.94,
+      "score": 106.38297872340425
+    },
+    "Hawaiian Shirt": {
+      "count": 85,
+      "rarity": 0.85,
+      "score": 117.6470588235294
+    },
+    "Blue Kimono with Bow": {
+      "count": 156,
+      "rarity": 1.56,
+      "score": 64.1025641025641
+    },
+    "Lavender Kimono with Bow": {
+      "count": 177,
+      "rarity": 1.77,
+      "score": 56.497175141242934
+    },
+    "Frog Hoodie": {
+      "count": 51,
+      "rarity": 0.51,
+      "score": 196.078431372549
+    },
+    "Suikan": {
+      "count": 74,
+      "rarity": 0.74,
+      "score": 135.13513513513513
+    },
+    "Vegan Mink Coat": {
+      "count": 81,
+      "rarity": 0.81,
+      "score": 123.4567901234568
+    },
+    "Hoodie with Bag": {
+      "count": 134,
+      "rarity": 1.34,
+      "score": 74.6268656716418
+    },
+    "Red Panda T-Shirt": {
+      "count": 75,
+      "rarity": 0.75,
+      "score": 133.33333333333334
+    },
+    "Fur Hoodie": {
+      "count": 145,
+      "rarity": 1.45,
+      "score": 68.9655172413793
+    },
+    "Azuki Track Jacket": {
+      "count": 157,
+      "rarity": 1.57,
+      "score": 63.69426751592357
+    },
+    "Stitched Samurai Armor": {
+      "count": 36,
+      "rarity": 0.36,
+      "score": 277.77777777777777
+    },
+    "White Blazer": {
+      "count": 102,
+      "rarity": 1.02,
+      "score": 98.0392156862745
+    },
+    "Golden Sloth Kigurumi": {
+      "count": 6,
+      "rarity": 0.06,
+      "score": 1666.6666666666667
+    },
+    "White Layered Yukata": {
+      "count": 155,
+      "rarity": 1.55,
+      "score": 64.51612903225806
+    },
+    "Red Ninja Top": {
+      "count": 140,
+      "rarity": 1.4,
+      "score": 71.42857142857143
+    },
+    "Plated Samurai Armor": {
+      "count": 45,
+      "rarity": 0.45,
+      "score": 222.22222222222223
+    },
+    "Sloth Hoodie": {
+      "count": 54,
+      "rarity": 0.54,
+      "score": 185.18518518518516
+    },
+    "Tank Top": {
+      "count": 137,
+      "rarity": 1.37,
+      "score": 72.99270072992701
+    },
+    "Bumblebee Jacket": {
+      "count": 102,
+      "rarity": 1.02,
+      "score": 98.0392156862745
+    },
+    "Sloth Kigurumi": {
+      "count": 30,
+      "rarity": 0.3,
+      "score": 333.3333333333333
+    },
+    "Cat Hoodie": {
+      "count": 46,
+      "rarity": 0.46,
+      "score": 217.3913043478261
+    },
+    "Matsuri Happi": {
+      "count": 88,
+      "rarity": 0.88,
+      "score": 113.63636363636363
+    },
+    "Red Panda Kimono": {
+      "count": 55,
+      "rarity": 0.55,
+      "score": 181.81818181818184
+    },
+    "Frog Kimono": {
+      "count": 59,
+      "rarity": 0.59,
+      "score": 169.49152542372883
+    },
+    "Blue Bikini": {
+      "count": 93,
+      "rarity": 0.93,
+      "score": 107.52688172043011
+    },
+    "Rain Jacket": {
+      "count": 116,
+      "rarity": 1.16,
+      "score": 86.20689655172414
+    },
+    "Sloth Yukata": {
+      "count": 42,
+      "rarity": 0.42,
+      "score": 238.0952380952381
+    },
+    "Cat T-Shirt": {
+      "count": 87,
+      "rarity": 0.87,
+      "score": 114.9425287356322
+    },
+    "Blue Bomber": {
+      "count": 130,
+      "rarity": 1.3,
+      "score": 76.92307692307692
+    },
+    "Kung Fu Shirt": {
+      "count": 112,
+      "rarity": 1.12,
+      "score": 89.28571428571429
+    },
+    "Archer": {
+      "count": 88,
+      "rarity": 0.88,
+      "score": 113.63636363636363
+    },
+    "Kimono with Straw Hat": {
+      "count": 114,
+      "rarity": 1.14,
+      "score": 87.71929824561403
+    },
+    "Black T-Shirt": {
+      "count": 77,
+      "rarity": 0.77,
+      "score": 129.87012987012986
+    },
+    "Blue Floral Kimono": {
+      "count": 186,
+      "rarity": 1.86,
+      "score": 53.763440860215056
+    },
+    "Black Tech Jacket": {
+      "count": 69,
+      "rarity": 0.69,
+      "score": 144.92753623188406
+    },
+    "Shinto Robe": {
+      "count": 125,
+      "rarity": 1.25,
+      "score": 80
+    },
+    "Black Blazer": {
+      "count": 94,
+      "rarity": 0.94,
+      "score": 106.38297872340425
+    },
+    "Golden Frog Kigurumi": {
+      "count": 10,
+      "rarity": 0.1,
+      "score": 1000
+    },
+    "Red Panda Kigurumi": {
+      "count": 25,
+      "rarity": 0.25,
+      "score": 400
+    },
+    "Red Panda Hoodie": {
+      "count": 51,
+      "rarity": 0.51,
+      "score": 196.078431372549
+    },
+    "Black Bomber": {
+      "count": 134,
+      "rarity": 1.34,
+      "score": 74.6268656716418
+    },
+    "Beige Poncho": {
+      "count": 36,
+      "rarity": 0.36,
+      "score": 277.77777777777777
+    },
+    "Black Oversized Kimono": {
+      "count": 32,
+      "rarity": 0.32,
+      "score": 312.5
+    },
+    "Red Panda Yukata": {
+      "count": 37,
+      "rarity": 0.37,
+      "score": 270.27027027027026
+    },
+    "Sloth T-Shirt": {
+      "count": 91,
+      "rarity": 0.91,
+      "score": 109.89010989010988
+    },
+    "Frog Kigurumi": {
+      "count": 35,
+      "rarity": 0.35,
+      "score": 285.7142857142857
+    },
+    "Cat Kigurumi": {
+      "count": 25,
+      "rarity": 0.25,
+      "score": 400
+    },
+    "Bandage Top": {
+      "count": 62,
+      "rarity": 0.62,
+      "score": 161.29032258064515
+    },
+    "Golden Red Panda Kigurumi": {
+      "count": 6,
+      "rarity": 0.06,
+      "score": 1666.6666666666667
+    },
+    "Frog Yukata": {
+      "count": 42,
+      "rarity": 0.42,
+      "score": 238.0952380952381
+    },
+    "Golden Cat Kigurumi": {
+      "count": 5,
+      "rarity": 0.05,
+      "score": 2000
+    }
+  },
+  "Eyes": {
+    "count": 10000,
+    "rarity": 100,
+    "score": 1,
+    "None": {
+      "count": 0,
+      "rarity": 0,
+      "score": null
+    },
+    "Striking": {
+      "count": 408,
+      "rarity": 4.08,
+      "score": 24.509803921568626
+    },
+    "Daydreaming": {
+      "count": 387,
+      "rarity": 3.87,
+      "score": 25.839793281653748
+    },
+    "Ruby": {
+      "count": 381,
+      "rarity": 3.81,
+      "score": 26.246719160104984
+    },
+    "Careless": {
+      "count": 381,
+      "rarity": 3.81,
+      "score": 26.246719160104984
+    },
+    "Lightning": {
+      "count": 46,
+      "rarity": 0.46,
+      "score": 217.3913043478261
+    },
+    "Suspicious": {
+      "count": 312,
+      "rarity": 3.12,
+      "score": 32.05128205128205
+    },
+    "Calm": {
+      "count": 376,
+      "rarity": 3.76,
+      "score": 26.595744680851062
+    },
+    "Relaxed": {
+      "count": 339,
+      "rarity": 3.39,
+      "score": 29.498525073746315
+    },
+    "Chill": {
+      "count": 392,
+      "rarity": 3.92,
+      "score": 25.510204081632654
+    },
+    "Closed": {
+      "count": 1551,
+      "rarity": 15.51,
+      "score": 6.447453255963895
+    },
+    "Pensive": {
+      "count": 322,
+      "rarity": 3.22,
+      "score": 31.055900621118013
+    },
+    "Tired": {
+      "count": 371,
+      "rarity": 3.71,
+      "score": 26.954177897574123
+    },
+    "Pierced Eyebrow": {
+      "count": 289,
+      "rarity": 2.89,
+      "score": 34.602076124567475
+    },
+    "Determined": {
+      "count": 742,
+      "rarity": 7.42,
+      "score": 13.477088948787062
+    },
+    "Bored": {
+      "count": 330,
+      "rarity": 3.3,
+      "score": 30.3030303030303
+    },
+    "Indifferent": {
+      "count": 355,
+      "rarity": 3.55,
+      "score": 28.169014084507044
+    },
+    "Amethyst": {
+      "count": 386,
+      "rarity": 3.86,
+      "score": 25.906735751295336
+    },
+    "Joyful": {
+      "count": 385,
+      "rarity": 3.85,
+      "score": 25.974025974025974
+    },
+    "Hopeful": {
+      "count": 368,
+      "rarity": 3.68,
+      "score": 27.17391304347826
+    },
+    "Meditating": {
+      "count": 318,
+      "rarity": 3.18,
+      "score": 31.446540880503143
+    },
+    "Focused": {
+      "count": 338,
+      "rarity": 3.38,
+      "score": 29.58579881656805
+    },
+    "Concerned": {
+      "count": 382,
+      "rarity": 3.82,
+      "score": 26.17801047120419
+    },
+    "Glowing": {
+      "count": 78,
+      "rarity": 0.78,
+      "score": 128.2051282051282
+    },
+    "Curious": {
+      "count": 354,
+      "rarity": 3.54,
+      "score": 28.248587570621467
+    },
+    "Red": {
+      "count": 154,
+      "rarity": 1.54,
+      "score": 64.93506493506493
+    },
+    "White": {
+      "count": 198,
+      "rarity": 1.98,
+      "score": 50.5050505050505
+    },
+    "Fire": {
+      "count": 57,
+      "rarity": 0.57,
+      "score": 175.43859649122805
+    }
+  },
+  "Mouth": {
+    "420": {
+      "count": 164,
+      "rarity": 1.64,
+      "score": 60.975609756097555
+    },
+    "count": 10000,
+    "rarity": 100,
+    "score": 1,
+    "None": {
+      "count": 0,
+      "rarity": 0,
+      "score": null
+    },
+    "Frown": {
+      "count": 363,
+      "rarity": 3.63,
+      "score": 27.548209366391184
+    },
+    "Lipstick": {
+      "count": 408,
+      "rarity": 4.08,
+      "score": 24.509803921568626
+    },
+    "Chewing": {
+      "count": 351,
+      "rarity": 3.51,
+      "score": 28.49002849002849
+    },
+    "Grass": {
+      "count": 390,
+      "rarity": 3.9,
+      "score": 25.641025641025642
+    },
+    "Smirk": {
+      "count": 726,
+      "rarity": 7.26,
+      "score": 13.774104683195592
+    },
+    "Chuckle": {
+      "count": 411,
+      "rarity": 4.11,
+      "score": 24.330900243309003
+    },
+    "Tongue Out": {
+      "count": 202,
+      "rarity": 2.02,
+      "score": 49.504950495049506
+    },
+    "Bubble Gum": {
+      "count": 281,
+      "rarity": 2.81,
+      "score": 35.587188612099645
+    },
+    "Wheat Straw": {
+      "count": 341,
+      "rarity": 3.41,
+      "score": 29.32551319648094
+    },
+    "Relaxed": {
+      "count": 834,
+      "rarity": 8.34,
+      "score": 11.990407673860911
+    },
+    "Not Bad": {
+      "count": 416,
+      "rarity": 4.16,
+      "score": 24.03846153846154
+    },
+    "Smile": {
+      "count": 371,
+      "rarity": 3.71,
+      "score": 26.954177897574123
+    },
+    "Grin": {
+      "count": 352,
+      "rarity": 3.52,
+      "score": 28.409090909090907
+    },
+    "Closed": {
+      "count": 812,
+      "rarity": 8.12,
+      "score": 12.315270935960593
+    },
+    "Smoking": {
+      "count": 413,
+      "rarity": 4.13,
+      "score": 24.213075060532685
+    },
+    "Tactical Knife": {
+      "count": 147,
+      "rarity": 1.47,
+      "score": 68.02721088435375
+    },
+    "Whistling": {
+      "count": 295,
+      "rarity": 2.95,
+      "score": 33.898305084745765
+    },
+    "Face Mask": {
+      "count": 193,
+      "rarity": 1.93,
+      "score": 51.81347150259067
+    },
+    "Long Stubble": {
+      "count": 95,
+      "rarity": 0.95,
+      "score": 105.26315789473685
+    },
+    "Laughing": {
+      "count": 382,
+      "rarity": 3.82,
+      "score": 26.17801047120419
+    },
+    "Growl": {
+      "count": 391,
+      "rarity": 3.91,
+      "score": 25.57544757033248
+    },
+    "Scroll": {
+      "count": 173,
+      "rarity": 1.73,
+      "score": 57.80346820809249
+    },
+    "Pout": {
+      "count": 403,
+      "rarity": 4.03,
+      "score": 24.813895781637715
+    },
+    "Meh": {
+      "count": 380,
+      "rarity": 3.8,
+      "score": 26.315789473684212
+    },
+    "Stubble": {
+      "count": 91,
+      "rarity": 0.91,
+      "score": 109.89010989010988
+    },
+    "Toothpick": {
+      "count": 344,
+      "rarity": 3.44,
+      "score": 29.069767441860463
+    },
+    "Gaiter": {
+      "count": 109,
+      "rarity": 1.09,
+      "score": 91.74311926605505
+    },
+    "Surprised": {
+      "count": 74,
+      "rarity": 0.74,
+      "score": 135.13513513513513
+    },
+    "Sleep Bubble": {
+      "count": 88,
+      "rarity": 0.88,
+      "score": 113.63636363636363
+    }
+  },
+  "Offhand": {
+    "count": 6835,
+    "rarity": 68.35,
+    "score": 1.463057790782736,
+    "None": {
+      "count": 3165,
+      "rarity": 31.65,
+      "score": 3.1595576619273302
+    },
+    "Monkey King Staff": {
+      "count": 145,
+      "rarity": 1.45,
+      "score": 68.9655172413793
+    },
+    "Gloves": {
+      "count": 111,
+      "rarity": 1.11,
+      "score": 90.09009009009009
+    },
+    "Katana": {
+      "count": 439,
+      "rarity": 4.39,
+      "score": 22.779043280182233
+    },
+    "Leather Katana": {
+      "count": 414,
+      "rarity": 4.14,
+      "score": 24.154589371980677
+    },
+    "Bat": {
+      "count": 392,
+      "rarity": 3.92,
+      "score": 25.510204081632654
+    },
+    "Sakura Katana": {
+      "count": 429,
+      "rarity": 4.29,
+      "score": 23.31002331002331
+    },
+    "Golden Hook Sword": {
+      "count": 14,
+      "rarity": 0.14,
+      "score": 714.2857142857143
+    },
+    "Guitar": {
+      "count": 125,
+      "rarity": 1.25,
+      "score": 80
+    },
+    "Banner": {
+      "count": 436,
+      "rarity": 4.36,
+      "score": 22.93577981651376
+    },
+    "Boombox": {
+      "count": 142,
+      "rarity": 1.42,
+      "score": 70.4225352112676
+    },
+    "Bokken": {
+      "count": 137,
+      "rarity": 1.37,
+      "score": 72.99270072992701
+    },
+    "Lantern": {
+      "count": 403,
+      "rarity": 4.03,
+      "score": 24.813895781637715
+    },
+    "Floorsweeper": {
+      "count": 268,
+      "rarity": 2.68,
+      "score": 37.3134328358209
+    },
+    "Zanbato": {
+      "count": 294,
+      "rarity": 2.94,
+      "score": 34.013605442176875
+    },
+    "Hand Seal": {
+      "count": 121,
+      "rarity": 1.21,
+      "score": 82.64462809917356
+    },
+    "Shuriken": {
+      "count": 153,
+      "rarity": 1.53,
+      "score": 65.35947712418302
+    },
+    "Bean Juice": {
+      "count": 299,
+      "rarity": 2.99,
+      "score": 33.44481605351171
+    },
+    "Skateboard": {
+      "count": 92,
+      "rarity": 0.92,
+      "score": 108.69565217391305
+    },
+    "Hand Wrap": {
+      "count": 120,
+      "rarity": 1.2,
+      "score": 83.33333333333333
+    },
+    "Coin": {
+      "count": 286,
+      "rarity": 2.86,
+      "score": 34.96503496503497
+    },
+    "Monk Staff": {
+      "count": 146,
+      "rarity": 1.46,
+      "score": 68.4931506849315
+    },
+    "Fireball": {
+      "count": 67,
+      "rarity": 0.67,
+      "score": 149.2537313432836
+    },
+    "Hook Sword": {
+      "count": 117,
+      "rarity": 1.17,
+      "score": 85.47008547008546
+    },
+    "Sake": {
+      "count": 155,
+      "rarity": 1.55,
+      "score": 64.51612903225806
+    },
+    "Umbrella": {
+      "count": 197,
+      "rarity": 1.97,
+      "score": 50.76142131979696
+    },
+    "Fan": {
+      "count": 236,
+      "rarity": 2.36,
+      "score": 42.37288135593221
+    },
+    "Red Bean": {
+      "count": 64,
+      "rarity": 0.64,
+      "score": 156.25
+    },
+    "Earth": {
+      "count": 58,
+      "rarity": 0.58,
+      "score": 172.41379310344828
+    },
+    "Golden Shinai": {
+      "count": 14,
+      "rarity": 0.14,
+      "score": 714.2857142857143
+    },
+    "Shinai": {
+      "count": 163,
+      "rarity": 1.63,
+      "score": 61.34969325153375
+    },
+    "Fishing Rod": {
+      "count": 153,
+      "rarity": 1.53,
+      "score": 65.35947712418302
+    },
+    "Golden Kanabo": {
+      "count": 16,
+      "rarity": 0.16,
+      "score": 625
+    },
+    "Golden Monk Staff": {
+      "count": 14,
+      "rarity": 0.14,
+      "score": 714.2857142857143
+    },
+    "Talisman": {
+      "count": 80,
+      "rarity": 0.8,
+      "score": 125
+    },
+    "Kanabo": {
+      "count": 144,
+      "rarity": 1.44,
+      "score": 69.44444444444444
+    },
+    "Golden Katana": {
+      "count": 12,
+      "rarity": 0.12,
+      "score": 833.3333333333334
+    },
+    "Blue Bean": {
+      "count": 53,
+      "rarity": 0.53,
+      "score": 188.67924528301887
+    },
+    "Lightning Orb": {
+      "count": 69,
+      "rarity": 0.69,
+      "score": 144.92753623188406
+    },
+    "Water Orb": {
+      "count": 61,
+      "rarity": 0.61,
+      "score": 163.93442622950818
+    },
+    "Golden Floorsweeper": {
+      "count": 15,
+      "rarity": 0.15,
+      "score": 666.6666666666666
+    },
+    "Golden Ticket": {
+      "count": 13,
+      "rarity": 0.13,
+      "score": 769.2307692307693
+    },
+    "Golden Bat": {
+      "count": 13,
+      "rarity": 0.13,
+      "score": 769.2307692307693
+    },
+    "Golden Sheathed Katana": {
+      "count": 12,
+      "rarity": 0.12,
+      "score": 833.3333333333334
+    },
+    "Golden Zanbato": {
+      "count": 11,
+      "rarity": 0.11,
+      "score": 909.090909090909
+    },
+    "Golden Bean": {
+      "count": 19,
+      "rarity": 0.19,
+      "score": 526.3157894736842
+    },
+    "Golden Guitar": {
+      "count": 16,
+      "rarity": 0.16,
+      "score": 625
+    },
+    "Golden Shuriken": {
+      "count": 14,
+      "rarity": 0.14,
+      "score": 714.2857142857143
+    },
+    "Golden Umbrella": {
+      "count": 13,
+      "rarity": 0.13,
+      "score": 769.2307692307693
+    },
+    "Golden Fan": {
+      "count": 15,
+      "rarity": 0.15,
+      "score": 666.6666666666666
+    },
+    "Golden Fishing Rod": {
+      "count": 13,
+      "rarity": 0.13,
+      "score": 769.2307692307693
+    },
+    "Golden Boombox": {
+      "count": 16,
+      "rarity": 0.16,
+      "score": 625
+    },
+    "Golden Monkey King Staff": {
+      "count": 12,
+      "rarity": 0.12,
+      "score": 833.3333333333334
+    },
+    "Golden Skateboard": {
+      "count": 14,
+      "rarity": 0.14,
+      "score": 714.2857142857143
+    }
+  },
+  "Background": {
+    "count": 10000,
+    "rarity": 100,
+    "score": 1,
+    "None": {
+      "count": 0,
+      "rarity": 0,
+      "score": null
+    },
+    "Off White A": {
+      "count": 1814,
+      "rarity": 18.14,
+      "score": 5.512679162072767
+    },
+    "Off White D": {
+      "count": 1990,
+      "rarity": 19.9,
+      "score": 5.025125628140703
+    },
+    "Red": {
+      "count": 1006,
+      "rarity": 10.06,
+      "score": 9.940357852882704
+    },
+    "Off White B": {
+      "count": 1758,
+      "rarity": 17.58,
+      "score": 5.688282138794084
+    },
+    "Off White C": {
+      "count": 1962,
+      "rarity": 19.62,
+      "score": 5.09683995922528
+    },
+    "Cool Gray": {
+      "count": 483,
+      "rarity": 4.83,
+      "score": 20.70393374741201
+    },
+    "Dark Blue": {
+      "count": 524,
+      "rarity": 5.24,
+      "score": 19.083969465648853
+    },
+    "Dark Purple": {
+      "count": 463,
+      "rarity": 4.63,
+      "score": 21.598272138228943
+    }
+  },
+  "Ear": {
+    "count": 1819,
+    "rarity": 18.19,
+    "score": 5.497526113249037,
+    "None": {
+      "count": 8181,
+      "rarity": 81.81,
+      "score": 1.222344456667889
+    },
+    "Red Tassel": {
+      "count": 33,
+      "rarity": 0.33,
+      "score": 303.03030303030306
+    },
+    "Small Hoop": {
+      "count": 81,
+      "rarity": 0.81,
+      "score": 123.4567901234568
+    },
+    "Red Cylinder": {
+      "count": 27,
+      "rarity": 0.27,
+      "score": 370.3703703703703
+    },
+    "Corded Earbuds": {
+      "count": 164,
+      "rarity": 1.64,
+      "score": 60.975609756097555
+    },
+    "Chill": {
+      "count": 82,
+      "rarity": 0.82,
+      "score": 121.95121951219511
+    },
+    "Stud": {
+      "count": 82,
+      "rarity": 0.82,
+      "score": 121.95121951219511
+    },
+    "Skull Ear Cuffs": {
+      "count": 70,
+      "rarity": 0.7,
+      "score": 142.85714285714286
+    },
+    "Wireless Earbuds": {
+      "count": 85,
+      "rarity": 0.85,
+      "score": 117.6470588235294
+    },
+    "Cat": {
+      "count": 23,
+      "rarity": 0.23,
+      "score": 434.7826086956522
+    },
+    "Wu": {
+      "count": 69,
+      "rarity": 0.69,
+      "score": 144.92753623188406
+    },
+    "Sword": {
+      "count": 67,
+      "rarity": 0.67,
+      "score": 149.2537313432836
+    },
+    "Hoop": {
+      "count": 27,
+      "rarity": 0.27,
+      "score": 370.3703703703703
+    },
+    "Ear Cuffs": {
+      "count": 85,
+      "rarity": 0.85,
+      "score": 117.6470588235294
+    },
+    "Chiyogami": {
+      "count": 81,
+      "rarity": 0.81,
+      "score": 123.4567901234568
+    },
+    "Sunflower": {
+      "count": 35,
+      "rarity": 0.35,
+      "score": 285.7142857142857
+    },
+    "Ethereum": {
+      "count": 40,
+      "rarity": 0.4,
+      "score": 250
+    },
+    "Sloth": {
+      "count": 22,
+      "rarity": 0.22,
+      "score": 454.5454545454545
+    },
+    "Red Panda": {
+      "count": 35,
+      "rarity": 0.35,
+      "score": 285.7142857142857
+    },
+    "Red Spiked Ring": {
+      "count": 80,
+      "rarity": 0.8,
+      "score": 125
+    },
+    "Pearl": {
+      "count": 35,
+      "rarity": 0.35,
+      "score": 285.7142857142857
+    },
+    "Sakura": {
+      "count": 61,
+      "rarity": 0.61,
+      "score": 163.93442622950818
+    },
+    "Yin Yang": {
+      "count": 70,
+      "rarity": 0.7,
+      "score": 142.85714285714286
+    },
+    "Yellow Fan": {
+      "count": 80,
+      "rarity": 0.8,
+      "score": 125
+    },
+    "Dragon": {
+      "count": 76,
+      "rarity": 0.76,
+      "score": 131.57894736842104
+    },
+    "Blue Cylinder": {
+      "count": 22,
+      "rarity": 0.22,
+      "score": 454.5454545454545
+    },
+    "Spiked Ring": {
+      "count": 82,
+      "rarity": 0.82,
+      "score": 121.95121951219511
+    },
+    "Square Stud": {
+      "count": 55,
+      "rarity": 0.55,
+      "score": 181.81818181818184
+    },
+    "Blue Bean": {
+      "count": 16,
+      "rarity": 0.16,
+      "score": 625
+    },
+    "Blue Fan": {
+      "count": 69,
+      "rarity": 0.69,
+      "score": 144.92753623188406
+    },
+    "Red Bean": {
+      "count": 14,
+      "rarity": 0.14,
+      "score": 714.2857142857143
+    },
+    "Frog": {
+      "count": 25,
+      "rarity": 0.25,
+      "score": 400
+    },
+    "Blue Tassel": {
+      "count": 26,
+      "rarity": 0.26,
+      "score": 384.61538461538464
+    }
+  },
+  "Headgear": {
+    "count": 3488,
+    "rarity": 34.88,
+    "score": 2.86697247706422,
+    "None": {
+      "count": 6512,
+      "rarity": 65.12,
+      "score": 1.5356265356265357
+    },
+    "Frog Headband": {
+      "count": 94,
+      "rarity": 0.94,
+      "score": 106.38297872340425
+    },
+    "Full Bandana": {
+      "count": 182,
+      "rarity": 1.82,
+      "score": 54.94505494505494
+    },
+    "Black Bucket Hat": {
+      "count": 133,
+      "rarity": 1.33,
+      "score": 75.18796992481204
+    },
+    "Distressed Beanie": {
+      "count": 160,
+      "rarity": 1.6,
+      "score": 62.5
+    },
+    "Chef Headband": {
+      "count": 157,
+      "rarity": 1.57,
+      "score": 63.69426751592357
+    },
+    "Pointy Straw Hat": {
+      "count": 126,
+      "rarity": 1.26,
+      "score": 79.36507936507937
+    },
+    "Sloth Headband": {
+      "count": 78,
+      "rarity": 0.78,
+      "score": 128.2051282051282
+    },
+    "IKZ Baseball Cap": {
+      "count": 265,
+      "rarity": 2.65,
+      "score": 37.735849056603776
+    },
+    "Backwards Cap": {
+      "count": 151,
+      "rarity": 1.51,
+      "score": 66.2251655629139
+    },
+    "Straw Hat": {
+      "count": 117,
+      "rarity": 1.17,
+      "score": 85.47008547008546
+    },
+    "Red Panda Baseball Cap": {
+      "count": 74,
+      "rarity": 0.74,
+      "score": 135.13513513513513
+    },
+    "Ayaigasa": {
+      "count": 108,
+      "rarity": 1.08,
+      "score": 92.59259259259258
+    },
+    "Horns": {
+      "count": 124,
+      "rarity": 1.24,
+      "score": 80.64516129032258
+    },
+    "Cat Baseball Cap": {
+      "count": 57,
+      "rarity": 0.57,
+      "score": 175.43859649122805
+    },
+    "Fur Bucket Hat": {
+      "count": 70,
+      "rarity": 0.7,
+      "score": 142.85714285714286
+    },
+    "Cat Headband": {
+      "count": 83,
+      "rarity": 0.83,
+      "score": 120.48192771084337
+    },
+    "Sloth Mask": {
+      "count": 53,
+      "rarity": 0.53,
+      "score": 188.67924528301887
+    },
+    "Cat Mask": {
+      "count": 50,
+      "rarity": 0.5,
+      "score": 200
+    },
+    "Frog Mask": {
+      "count": 52,
+      "rarity": 0.52,
+      "score": 192.30769230769232
+    },
+    "Red Panda Mask": {
+      "count": 44,
+      "rarity": 0.44,
+      "score": 227.27272727272725
+    },
+    "Yellow Kanzashi": {
+      "count": 168,
+      "rarity": 1.68,
+      "score": 59.523809523809526
+    },
+    "Newsboy Cap": {
+      "count": 106,
+      "rarity": 1.06,
+      "score": 94.33962264150944
+    },
+    "Red Panda Headband": {
+      "count": 74,
+      "rarity": 0.74,
+      "score": 135.13513513513513
+    },
+    "Red Panda Beanie": {
+      "count": 28,
+      "rarity": 0.28,
+      "score": 357.14285714285717
+    },
+    "Sandogasa": {
+      "count": 93,
+      "rarity": 0.93,
+      "score": 107.52688172043011
+    },
+    "Beret": {
+      "count": 98,
+      "rarity": 0.98,
+      "score": 102.04081632653062
+    },
+    "Purple Kanzashi": {
+      "count": 163,
+      "rarity": 1.63,
+      "score": 61.34969325153375
+    },
+    "Cat Beanie": {
+      "count": 30,
+      "rarity": 0.3,
+      "score": 333.3333333333333
+    },
+    "Broken Straw Hat": {
+      "count": 124,
+      "rarity": 1.24,
+      "score": 80.64516129032258
+    },
+    "Cowboy Hat": {
+      "count": 119,
+      "rarity": 1.19,
+      "score": 84.03361344537815
+    },
+    "Azuki Cap": {
+      "count": 67,
+      "rarity": 0.67,
+      "score": 149.2537313432836
+    },
+    "Sloth Baseball Cap": {
+      "count": 61,
+      "rarity": 0.61,
+      "score": 163.93442622950818
+    },
+    "Frog Beanie": {
+      "count": 30,
+      "rarity": 0.3,
+      "score": 333.3333333333333
+    },
+    "Sloth Beanie": {
+      "count": 31,
+      "rarity": 0.31,
+      "score": 322.5806451612903
+    },
+    "Cat Ears": {
+      "count": 58,
+      "rarity": 0.58,
+      "score": 172.41379310344828
+    },
+    "Frog Baseball Cap": {
+      "count": 60,
+      "rarity": 0.6,
+      "score": 166.66666666666666
+    }
+  },
+  "Neck": {
+    "count": 2254,
+    "rarity": 22.54,
+    "score": 4.436557231588288,
+    "None": {
+      "count": 7746,
+      "rarity": 77.46,
+      "score": 1.2909888974954815
+    },
+    "Frog Headphones": {
+      "count": 52,
+      "rarity": 0.52,
+      "score": 192.30769230769232
+    },
+    "Choker": {
+      "count": 148,
+      "rarity": 1.48,
+      "score": 67.56756756756756
+    },
+    "Chain": {
+      "count": 189,
+      "rarity": 1.89,
+      "score": 52.91005291005291
+    },
+    "Tribal Tattoo": {
+      "count": 202,
+      "rarity": 2.02,
+      "score": 49.504950495049506
+    },
+    "Zen Headphones": {
+      "count": 215,
+      "rarity": 2.15,
+      "score": 46.51162790697675
+    },
+    "Koi Tattoo": {
+      "count": 248,
+      "rarity": 2.48,
+      "score": 40.32258064516129
+    },
+    "Red Panda Headphones": {
+      "count": 50,
+      "rarity": 0.5,
+      "score": 200
+    },
+    "Towel": {
+      "count": 235,
+      "rarity": 2.35,
+      "score": 42.5531914893617
+    },
+    "Chill Headphones": {
+      "count": 400,
+      "rarity": 4,
+      "score": 25
+    },
+    "Beads": {
+      "count": 206,
+      "rarity": 2.06,
+      "score": 48.543689320388346
+    },
+    "Contract Tattoo": {
+      "count": 85,
+      "rarity": 0.85,
+      "score": 117.6470588235294
+    },
+    "Sneakers": {
+      "count": 108,
+      "rarity": 1.08,
+      "score": 92.59259259259258
+    },
+    "Cat Headphones": {
+      "count": 45,
+      "rarity": 0.45,
+      "score": 222.22222222222223
+    },
+    "Golden Headphones": {
+      "count": 35,
+      "rarity": 0.35,
+      "score": 285.7142857142857
+    },
+    "Sloth Headphones": {
+      "count": 36,
+      "rarity": 0.36,
+      "score": 277.77777777777777
+    }
+  },
+  "Face": {
+    "count": 3210,
+    "rarity": 32.1,
+    "score": 3.115264797507788,
+    "None": {
+      "count": 6790,
+      "rarity": 67.9,
+      "score": 1.4727540500736376
+    },
+    "Red Stripes Face Paint": {
+      "count": 290,
+      "rarity": 2.9,
+      "score": 34.48275862068965
+    },
+    "Blush": {
+      "count": 108,
+      "rarity": 1.08,
+      "score": 92.59259259259258
+    },
+    "Red Fang Face Paint": {
+      "count": 268,
+      "rarity": 2.68,
+      "score": 37.3134328358209
+    },
+    "Blue Sunglasses": {
+      "count": 150,
+      "rarity": 1.5,
+      "score": 66.66666666666667
+    },
+    "Sleep Mask": {
+      "count": 185,
+      "rarity": 1.85,
+      "score": 54.054054054054056
+    },
+    "Reading Glasses": {
+      "count": 183,
+      "rarity": 1.83,
+      "score": 54.6448087431694
+    },
+    "Black Glasses": {
+      "count": 195,
+      "rarity": 1.95,
+      "score": 51.282051282051285
+    },
+    "Eye Patch": {
+      "count": 225,
+      "rarity": 2.25,
+      "score": 44.44444444444444
+    },
+    "Round Purple Sunglasses": {
+      "count": 89,
+      "rarity": 0.89,
+      "score": 112.35955056179776
+    },
+    "Seer Eyeband": {
+      "count": 111,
+      "rarity": 1.11,
+      "score": 90.09009009009009
+    },
+    "Round Blue Sunglasses": {
+      "count": 275,
+      "rarity": 2.75,
+      "score": 36.36363636363637
+    },
+    "Eye Scar": {
+      "count": 277,
+      "rarity": 2.77,
+      "score": 36.101083032490976
+    },
+    "Red Bandana": {
+      "count": 87,
+      "rarity": 0.87,
+      "score": 114.9425287356322
+    },
+    "Clear Glasses": {
+      "count": 136,
+      "rarity": 1.36,
+      "score": 73.52941176470588
+    },
+    "Bandaid": {
+      "count": 252,
+      "rarity": 2.52,
+      "score": 39.682539682539684
+    },
+    "Ji Eyeband": {
+      "count": 95,
+      "rarity": 0.95,
+      "score": 105.26315789473685
+    },
+    "Kabuki Facepaint": {
+      "count": 147,
+      "rarity": 1.47,
+      "score": 68.02721088435375
+    },
+    "Lipstick Kiss": {
+      "count": 72,
+      "rarity": 0.72,
+      "score": 138.88888888888889
+    },
+    "Heart Eye Patch": {
+      "count": 65,
+      "rarity": 0.65,
+      "score": 153.84615384615384
+    }
+  },
+  "Special": {
+    "count": 629,
+    "rarity": 6.29,
+    "score": 15.89825119236884,
+    "None": {
+      "count": 9371,
+      "rarity": 93.71,
+      "score": 1.0671219720414042
+    },
+    "Fireflies": {
+      "count": 88,
+      "rarity": 0.88,
+      "score": 113.63636363636363
+    },
+    "Lightning": {
+      "count": 48,
+      "rarity": 0.48,
+      "score": 208.33333333333334
+    },
+    "Earth": {
+      "count": 53,
+      "rarity": 0.53,
+      "score": 188.67924528301887
+    },
+    "Sakura": {
+      "count": 80,
+      "rarity": 0.8,
+      "score": 125
+    },
+    "Butterfly": {
+      "count": 86,
+      "rarity": 0.86,
+      "score": 116.27906976744185
+    },
+    "Fire": {
+      "count": 58,
+      "rarity": 0.58,
+      "score": 172.41379310344828
+    },
+    "Smoke": {
+      "count": 81,
+      "rarity": 0.81,
+      "score": 123.4567901234568
+    },
+    "Fox Fire": {
+      "count": 86,
+      "rarity": 0.86,
+      "score": 116.27906976744185
+    },
+    "Water": {
+      "count": 49,
+      "rarity": 0.49,
+      "score": 204.08163265306123
+    }
+  }
+}
