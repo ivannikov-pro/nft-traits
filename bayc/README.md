@@ -1,5 +1,5 @@
 # BAYC Traits
-
+_\*top2 implies a spacing from the end of top 1 to the end of top2 inclusive. Example for a collection of 10k items: top1 1-100, top2 101-200, etc._
 
 | Trait Type | Trait Value | Count | Rarity | Score | top1 | top2 | top3 | top5 | top10 | top20 | top30 | top40 | top50 | top60 | top70 | top80 | top90 | top100
 | :--- | :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
