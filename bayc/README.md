@@ -3,16 +3,16 @@
 
 | Trait Type | Trait Value | Count | Rarity | Score | top1 | top2 | top3 | top5 | top10 | top20 | top30 | top40 | top50 | top60 | top70 | top80 | top90 | top100
 | :--- | :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| Traits count | 4 | 254 | 2.54 | 39.37 | - | - | - | - | - | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - |
+| Traits count | 4 | 254 | 2.54 | 39.37 | - | - | - | - | - | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Traits count | 5 | 2540 | 25.40 | 3.94 | - | - | - | - | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Traits count | 6 | 5323 | 53.23 | 1.88 | - | - | - | - | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Traits count | 7 | 1883 | 18.83 | 5.31 | Yes | Yes | Yes | Yes | Yes | Yes | - | - | - | - | - | - | - | - |
 | Earring | None | 7023 | 70.23 | 1.42 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | - | - | - | - |
-| Earring | Silver Hoop | 882 | 8.82 | 11.34 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | - | - | - | - | - |
+| Earring | Silver Hoop | 882 | 8.82 | 11.34 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | - | - | - | - |
 | Earring | Gold Stud | 439 | 4.39 | 22.78 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | - | - | - | - | - |
 | Earring | Silver Stud | 823 | 8.23 | 12.15 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | - | - | - | - |
-| Earring | Diamond Stud | 222 | 2.22 | 45.05 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | - | - | - | - | - | - |
-| Earring | Cross | 149 | 1.49 | 67.11 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | - | - | - | - | - | - |
+| Earring | Diamond Stud | 222 | 2.22 | 45.05 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | - | - | - | - | - |
+| Earring | Cross | 149 | 1.49 | 67.11 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | - | - | - | - | - |
 | Earring | Gold Hoop | 462 | 4.62 | 21.65 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | - | - | - | - | - |
 | Background | None | 0 | 0.00 | Infinity | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Background | Orange | 1273 | 12.73 | 7.86 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
@@ -35,7 +35,7 @@
 | Fur | Black | 1229 | 12.29 | 8.14 | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Fur | Gray | 496 | 4.96 | 20.16 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Fur | Tan | 626 | 6.26 | 15.97 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
-| Fur | Trippy | 77 | 0.77 | 129.87 | Yes | Yes | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | Yes | Yes |
+| Fur | Trippy | 77 | 0.77 | 129.87 | Yes | Yes | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Fur | Red | 474 | 4.74 | 21.10 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Fur | Death Bot | 175 | 1.75 | 57.14 | Yes | Yes | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Fur | Blue | 490 | 4.90 | 20.41 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
@@ -86,44 +86,44 @@
 | Clothes | Caveman Pelt | 163 | 1.63 | 61.35 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Clothes | Tie Dye | 144 | 1.44 | 69.44 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Clothes | Kings Robe | 68 | 0.68 | 147.06 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
-| Clothes | Black Suit | 42 | 0.42 | 238.10 | - | - | - | - | Yes | Yes | - | Yes | Yes | - | Yes | Yes | Yes | Yes |
+| Clothes | Black Suit | 42 | 0.42 | 238.10 | - | - | - | - | Yes | Yes | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Mouth | None | 0 | 0.00 | Infinity | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Mouth | Discomfort | 208 | 2.08 | 48.08 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - |
 | Mouth | Grin | 713 | 7.13 | 14.03 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
-| Mouth | Bored Cigarette | 710 | 7.10 | 14.08 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - |
-| Mouth | Tongue Out | 202 | 2.02 | 49.50 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - |
-| Mouth | Phoneme L | 241 | 2.41 | 41.49 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - |
+| Mouth | Bored Cigarette | 710 | 7.10 | 14.08 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| Mouth | Tongue Out | 202 | 2.02 | 49.50 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| Mouth | Phoneme L | 241 | 2.41 | 41.49 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Mouth | Dumbfounded | 505 | 5.05 | 19.80 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Mouth | Bored | 2272 | 22.72 | 4.40 | - | - | - | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Mouth | Small Grin | 272 | 2.72 | 36.76 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - |
-| Mouth | Bored Unshaven Cigarette | 438 | 4.38 | 22.83 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - |
+| Mouth | Bored Unshaven Cigarette | 438 | 4.38 | 22.83 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Mouth | Bored Unshaven | 1551 | 15.51 | 6.45 | - | - | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
-| Mouth | Rage | 266 | 2.66 | 37.59 | Yes | Yes | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - |
-| Mouth | Phoneme Vuh | 333 | 3.33 | 30.03 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - |
+| Mouth | Rage | 266 | 2.66 | 37.59 | Yes | Yes | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| Mouth | Phoneme Vuh | 333 | 3.33 | 30.03 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Mouth | Phoneme  ooo | 255 | 2.55 | 39.22 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - |
-| Mouth | Bored Pipe | 132 | 1.32 | 75.76 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | - | - |
-| Mouth | Jovial | 296 | 2.96 | 33.78 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - |
+| Mouth | Bored Pipe | 132 | 1.32 | 75.76 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| Mouth | Jovial | 296 | 2.96 | 33.78 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Mouth | Bored Pizza | 50 | 0.50 | 200.00 | Yes | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | - |
 | Mouth | Phoneme Wah | 163 | 1.63 | 61.35 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - |
 | Mouth | Grin Multicolored | 116 | 1.16 | 86.21 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - |
-| Mouth | Bored Unshaven Cigar | 94 | 0.94 | 106.38 | Yes | Yes | Yes | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | - | - |
-| Mouth | Bored Dagger | 49 | 0.49 | 204.08 | Yes | Yes | Yes | - | Yes | Yes | - | Yes | Yes | Yes | Yes | - | Yes | - |
+| Mouth | Bored Unshaven Cigar | 94 | 0.94 | 106.38 | Yes | Yes | Yes | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | - |
+| Mouth | Bored Dagger | 49 | 0.49 | 204.08 | Yes | Yes | Yes | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | Yes | - |
 | Mouth | Bored Unshaven Kazoo | 61 | 0.61 | 163.93 | Yes | Yes | Yes | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | Yes | - |
 | Mouth | Bored Cigar | 121 | 1.21 | 82.64 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - |
-| Mouth | Bored Kazoo | 74 | 0.74 | 135.14 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | - | - |
-| Mouth | Bored Unshaven Pizza | 26 | 0.26 | 384.62 | Yes | Yes | - | - | Yes | - | Yes | Yes | Yes | Yes | - | - | Yes | - |
-| Mouth | Bored Party Horn | 88 | 0.88 | 113.64 | Yes | Yes | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | - | - |
-| Mouth | Bored Bubblegum | 119 | 1.19 | 84.03 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | Yes | - |
-| Mouth | Phoneme Oh | 237 | 2.37 | 42.19 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - |
-| Mouth | Grin Gold Grill | 91 | 0.91 | 109.89 | Yes | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | - | - |
-| Mouth | Bored Unshaven Pipe | 101 | 1.01 | 99.01 | Yes | Yes | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - |
-| Mouth | Bored Unshaven Bubblegum | 65 | 0.65 | 153.85 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | - | - |
+| Mouth | Bored Kazoo | 74 | 0.74 | 135.14 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | Yes | - |
+| Mouth | Bored Unshaven Pizza | 26 | 0.26 | 384.62 | Yes | Yes | - | - | Yes | Yes | Yes | Yes | Yes | Yes | - | Yes | Yes | - |
+| Mouth | Bored Party Horn | 88 | 0.88 | 113.64 | Yes | Yes | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| Mouth | Bored Bubblegum | 119 | 1.19 | 84.03 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - |
+| Mouth | Phoneme Oh | 237 | 2.37 | 42.19 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| Mouth | Grin Gold Grill | 91 | 0.91 | 109.89 | Yes | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | - |
+| Mouth | Bored Unshaven Pipe | 101 | 1.01 | 99.01 | Yes | Yes | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| Mouth | Bored Unshaven Bubblegum | 65 | 0.65 | 153.85 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | - |
 | Mouth | Bored Unshaven Dagger | 28 | 0.28 | 357.14 | - | Yes | Yes | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | Yes | - |
-| Mouth | Grin Diamond Grill | 78 | 0.78 | 128.21 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | Yes | - |
-| Mouth | Bored Unshaven Party horn | 45 | 0.45 | 222.22 | Yes | Yes | Yes | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | - | - |
+| Mouth | Grin Diamond Grill | 78 | 0.78 | 128.21 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - |
+| Mouth | Bored Unshaven Party horn | 45 | 0.45 | 222.22 | Yes | Yes | Yes | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | - |
 | Eyes | None | 0 | 0.00 | Infinity | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Eyes | X Eyes | 243 | 2.43 | 41.15 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
-| Eyes | Blue Beams | 49 | 0.49 | 204.08 | - | - | - | - | - | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - |
+| Eyes | Blue Beams | 49 | 0.49 | 204.08 | - | - | - | - | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - |
 | Eyes | 3d | 487 | 4.87 | 20.53 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Eyes | Bored | 1714 | 17.14 | 5.83 | - | - | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Eyes | Closed | 710 | 7.10 | 14.08 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
@@ -138,19 +138,19 @@
 | Eyes | Zombie | 308 | 3.08 | 32.47 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Eyes | Cyborg | 108 | 1.08 | 92.59 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Eyes | Hypnotized | 220 | 2.20 | 45.45 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
-| Eyes | Holographic | 151 | 1.51 | 66.23 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - |
+| Eyes | Holographic | 151 | 1.51 | 66.23 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Eyes | Sunglasses | 352 | 3.52 | 28.41 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Eyes | Sad | 551 | 5.51 | 18.15 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Eyes | Heart | 394 | 3.94 | 25.38 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
-| Eyes | Scumbag | 233 | 2.33 | 42.92 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - |
+| Eyes | Scumbag | 233 | 2.33 | 42.92 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Eyes | Blindfold | 264 | 2.64 | 37.88 | Yes | Yes | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
-| Eyes | Laser Eyes | 69 | 0.69 | 144.93 | - | Yes | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | - | Yes |
+| Eyes | Laser Eyes | 69 | 0.69 | 144.93 | - | Yes | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Hat | None | 2256 | 22.56 | 4.43 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Hat | Sea Captain's Hat | 304 | 3.04 | 32.89 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Hat | Party Hat 2 | 107 | 1.07 | 93.46 | Yes | Yes | Yes | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Hat | Bayc Flipped Brim | 231 | 2.31 | 43.29 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Hat | S&m Hat | 235 | 2.35 | 42.55 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
-| Hat | Stuntman Helmet | 157 | 1.57 | 63.69 | Yes | Yes | Yes | Yes | Yes | Yes | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| Hat | Stuntman Helmet | 157 | 1.57 | 63.69 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Hat | Beanie | 578 | 5.78 | 17.30 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Hat | Seaman's Hat | 420 | 4.20 | 23.81 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Hat | Bayc Hat Red | 119 | 1.19 | 84.03 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
@@ -168,8 +168,8 @@
 | Hat | Baby's Bonnet | 158 | 1.58 | 63.29 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Hat | Fisherman's Hat | 345 | 3.45 | 28.99 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Hat | Girl's Hair Short | 150 | 1.50 | 66.67 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
-| Hat | King's Crown | 77 | 0.77 | 129.87 | - | Yes | Yes | Yes | Yes | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
-| Hat | Bunny Ears | 195 | 1.95 | 51.28 | Yes | Yes | Yes | Yes | Yes | Yes | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| Hat | King's Crown | 77 | 0.77 | 129.87 | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| Hat | Bunny Ears | 195 | 1.95 | 51.28 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Hat | Ww2 Pilot Helm | 110 | 1.10 | 90.91 | - | - | - | - | - | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Hat | Bandana Blue | 89 | 0.89 | 112.36 | Yes | Yes | Yes | Yes | Yes | Yes | - | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Hat | Prussian Helmet | 130 | 1.30 | 76.92 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
