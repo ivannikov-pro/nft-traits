@@ -1,0 +1,934 @@
+{
+  "Traits count": {
+    "4": {
+      "count": 254,
+      "rarity": 2.54,
+      "score": 39.37007874015748
+    },
+    "5": {
+      "count": 2540,
+      "rarity": 25.4,
+      "score": 3.937007874015748
+    },
+    "6": {
+      "count": 5323,
+      "rarity": 53.23,
+      "score": 1.8786398647379297
+    },
+    "7": {
+      "count": 1883,
+      "rarity": 18.83,
+      "score": 5.310674455655868
+    }
+  },
+  "Earring": {
+    "count": 2977,
+    "rarity": 29.77,
+    "score": 3.3590863285186425,
+    "None": {
+      "count": 7023,
+      "rarity": 70.23,
+      "score": 1.4238929232521713
+    },
+    "Silver Hoop": {
+      "count": 882,
+      "rarity": 8.82,
+      "score": 11.337868480725623
+    },
+    "Gold Stud": {
+      "count": 439,
+      "rarity": 4.39,
+      "score": 22.779043280182233
+    },
+    "Silver Stud": {
+      "count": 823,
+      "rarity": 8.23,
+      "score": 12.150668286755772
+    },
+    "Diamond Stud": {
+      "count": 222,
+      "rarity": 2.22,
+      "score": 45.04504504504504
+    },
+    "Cross": {
+      "count": 149,
+      "rarity": 1.49,
+      "score": 67.11409395973155
+    },
+    "Gold Hoop": {
+      "count": 462,
+      "rarity": 4.62,
+      "score": 21.645021645021647
+    }
+  },
+  "Background": {
+    "count": 10000,
+    "rarity": 100,
+    "score": 1,
+    "None": {
+      "count": 0,
+      "rarity": 0,
+      "score": null
+    },
+    "Orange": {
+      "count": 1273,
+      "rarity": 12.73,
+      "score": 7.855459544383347
+    },
+    "Aquamarine": {
+      "count": 1266,
+      "rarity": 12.66,
+      "score": 7.8988941548183265
+    },
+    "Purple": {
+      "count": 1291,
+      "rarity": 12.91,
+      "score": 7.74593338497289
+    },
+    "Blue": {
+      "count": 1242,
+      "rarity": 12.42,
+      "score": 8.051529790660226
+    },
+    "Army Green": {
+      "count": 1243,
+      "rarity": 12.43,
+      "score": 8.045052292839904
+    },
+    "Yellow": {
+      "count": 1283,
+      "rarity": 12.83,
+      "score": 7.79423226812159
+    },
+    "Gray": {
+      "count": 1170,
+      "rarity": 11.7,
+      "score": 8.547008547008547
+    },
+    "New Punk Blue": {
+      "count": 1232,
+      "rarity": 12.32,
+      "score": 8.116883116883116
+    }
+  },
+  "Fur": {
+    "count": 10000,
+    "rarity": 100,
+    "score": 1,
+    "None": {
+      "count": 0,
+      "rarity": 0,
+      "score": null
+    },
+    "Robot": {
+      "count": 265,
+      "rarity": 2.65,
+      "score": 37.735849056603776
+    },
+    "Cheetah": {
+      "count": 406,
+      "rarity": 4.06,
+      "score": 24.630541871921185
+    },
+    "Golden Brown": {
+      "count": 778,
+      "rarity": 7.78,
+      "score": 12.853470437017997
+    },
+    "Brown": {
+      "count": 1370,
+      "rarity": 13.7,
+      "score": 7.2992700729927
+    },
+    "Cream": {
+      "count": 636,
+      "rarity": 6.36,
+      "score": 15.723270440251572
+    },
+    "Zombie": {
+      "count": 302,
+      "rarity": 3.02,
+      "score": 33.11258278145695
+    },
+    "Dmt": {
+      "count": 215,
+      "rarity": 2.15,
+      "score": 46.51162790697675
+    },
+    "Dark Brown": {
+      "count": 1352,
+      "rarity": 13.52,
+      "score": 7.396449704142013
+    },
+    "Black": {
+      "count": 1229,
+      "rarity": 12.29,
+      "score": 8.136696501220504
+    },
+    "Gray": {
+      "count": 496,
+      "rarity": 4.96,
+      "score": 20.161290322580644
+    },
+    "Tan": {
+      "count": 626,
+      "rarity": 6.26,
+      "score": 15.974440894568689
+    },
+    "Trippy": {
+      "count": 77,
+      "rarity": 0.77,
+      "score": 129.87012987012986
+    },
+    "Red": {
+      "count": 474,
+      "rarity": 4.74,
+      "score": 21.09704641350211
+    },
+    "Death Bot": {
+      "count": 175,
+      "rarity": 1.75,
+      "score": 57.14285714285714
+    },
+    "Blue": {
+      "count": 490,
+      "rarity": 4.9,
+      "score": 20.408163265306122
+    },
+    "Pink": {
+      "count": 511,
+      "rarity": 5.11,
+      "score": 19.569471624266146
+    },
+    "Solid Gold": {
+      "count": 46,
+      "rarity": 0.46,
+      "score": 217.3913043478261
+    },
+    "White": {
+      "count": 397,
+      "rarity": 3.97,
+      "score": 25.188916876574307
+    },
+    "Noise": {
+      "count": 155,
+      "rarity": 1.55,
+      "score": 64.51612903225806
+    }
+  },
+  "Clothes": {
+    "count": 8114,
+    "rarity": 81.14,
+    "score": 1.2324377618930245,
+    "None": {
+      "count": 1886,
+      "rarity": 18.86,
+      "score": 5.302226935312832
+    },
+    "Striped Tee": {
+      "count": 412,
+      "rarity": 4.12,
+      "score": 24.271844660194173
+    },
+    "Vietnam Jacket": {
+      "count": 224,
+      "rarity": 2.24,
+      "score": 44.642857142857146
+    },
+    "Bone Necklace": {
+      "count": 203,
+      "rarity": 2.03,
+      "score": 49.26108374384237
+    },
+    "Navy Striped Tee": {
+      "count": 334,
+      "rarity": 3.34,
+      "score": 29.940119760479043
+    },
+    "Bayc T Red": {
+      "count": 140,
+      "rarity": 1.4,
+      "score": 71.42857142857143
+    },
+    "Tweed Suit": {
+      "count": 141,
+      "rarity": 1.41,
+      "score": 70.92198581560284
+    },
+    "Wool Turtleneck": {
+      "count": 240,
+      "rarity": 2.4,
+      "score": 41.666666666666664
+    },
+    "Stunt Jacket": {
+      "count": 178,
+      "rarity": 1.78,
+      "score": 56.17977528089888
+    },
+    "Smoking Jacket": {
+      "count": 221,
+      "rarity": 2.21,
+      "score": 45.24886877828054
+    },
+    "Black Holes T": {
+      "count": 205,
+      "rarity": 2.05,
+      "score": 48.78048780487805
+    },
+    "Bone Tee": {
+      "count": 230,
+      "rarity": 2.3,
+      "score": 43.47826086956522
+    },
+    "Tanktop": {
+      "count": 235,
+      "rarity": 2.35,
+      "score": 42.5531914893617
+    },
+    "Black T": {
+      "count": 334,
+      "rarity": 3.34,
+      "score": 29.940119760479043
+    },
+    "Bayc T Black": {
+      "count": 215,
+      "rarity": 2.15,
+      "score": 46.51162790697675
+    },
+    "Bandolier": {
+      "count": 163,
+      "rarity": 1.63,
+      "score": 61.34969325153375
+    },
+    "Tuxedo Tee": {
+      "count": 235,
+      "rarity": 2.35,
+      "score": 42.5531914893617
+    },
+    "Guayabera": {
+      "count": 232,
+      "rarity": 2.32,
+      "score": 43.10344827586207
+    },
+    "Sleeveless T": {
+      "count": 252,
+      "rarity": 2.52,
+      "score": 39.682539682539684
+    },
+    "Hip Hop": {
+      "count": 128,
+      "rarity": 1.28,
+      "score": 78.125
+    },
+    "Sailor Shirt": {
+      "count": 284,
+      "rarity": 2.84,
+      "score": 35.2112676056338
+    },
+    "Leather Jacket": {
+      "count": 206,
+      "rarity": 2.06,
+      "score": 48.543689320388346
+    },
+    "Biker Vest": {
+      "count": 253,
+      "rarity": 2.53,
+      "score": 39.52569169960474
+    },
+    "Lumberjack Shirt": {
+      "count": 213,
+      "rarity": 2.13,
+      "score": 46.948356807511736
+    },
+    "Prison Jumpsuit": {
+      "count": 235,
+      "rarity": 2.35,
+      "score": 42.5531914893617
+    },
+    "Work Vest": {
+      "count": 188,
+      "rarity": 1.88,
+      "score": 53.191489361702125
+    },
+    "Blue Dress": {
+      "count": 95,
+      "rarity": 0.95,
+      "score": 105.26315789473685
+    },
+    "Toga": {
+      "count": 202,
+      "rarity": 2.02,
+      "score": 49.504950495049506
+    },
+    "Lab Coat": {
+      "count": 144,
+      "rarity": 1.44,
+      "score": 69.44444444444444
+    },
+    "Cowboy Shirt": {
+      "count": 119,
+      "rarity": 1.19,
+      "score": 84.03361344537815
+    },
+    "Service": {
+      "count": 142,
+      "rarity": 1.42,
+      "score": 70.4225352112676
+    },
+    "Hawaiian": {
+      "count": 283,
+      "rarity": 2.83,
+      "score": 35.3356890459364
+    },
+    "Admirals Coat": {
+      "count": 64,
+      "rarity": 0.64,
+      "score": 156.25
+    },
+    "Pimp Coat": {
+      "count": 80,
+      "rarity": 0.8,
+      "score": 125
+    },
+    "Space Suit": {
+      "count": 105,
+      "rarity": 1.05,
+      "score": 95.23809523809523
+    },
+    "Leather Punk Jacket": {
+      "count": 153,
+      "rarity": 1.53,
+      "score": 65.35947712418302
+    },
+    "Sleeveless Logo T": {
+      "count": 144,
+      "rarity": 1.44,
+      "score": 69.44444444444444
+    },
+    "Puffy Vest": {
+      "count": 227,
+      "rarity": 2.27,
+      "score": 44.052863436123346
+    },
+    "Rainbow Suspenders": {
+      "count": 135,
+      "rarity": 1.35,
+      "score": 74.07407407407408
+    },
+    "Prom Dress": {
+      "count": 103,
+      "rarity": 1.03,
+      "score": 97.08737864077669
+    },
+    "Caveman Pelt": {
+      "count": 163,
+      "rarity": 1.63,
+      "score": 61.34969325153375
+    },
+    "Tie Dye": {
+      "count": 144,
+      "rarity": 1.44,
+      "score": 69.44444444444444
+    },
+    "Kings Robe": {
+      "count": 68,
+      "rarity": 0.68,
+      "score": 147.05882352941177
+    },
+    "Black Suit": {
+      "count": 42,
+      "rarity": 0.42,
+      "score": 238.0952380952381
+    }
+  },
+  "Mouth": {
+    "count": 10000,
+    "rarity": 100,
+    "score": 1,
+    "None": {
+      "count": 0,
+      "rarity": 0,
+      "score": null
+    },
+    "Discomfort": {
+      "count": 208,
+      "rarity": 2.08,
+      "score": 48.07692307692308
+    },
+    "Grin": {
+      "count": 713,
+      "rarity": 7.13,
+      "score": 14.025245441795231
+    },
+    "Bored Cigarette": {
+      "count": 710,
+      "rarity": 7.1,
+      "score": 14.084507042253522
+    },
+    "Tongue Out": {
+      "count": 202,
+      "rarity": 2.02,
+      "score": 49.504950495049506
+    },
+    "Phoneme L": {
+      "count": 241,
+      "rarity": 2.41,
+      "score": 41.49377593360996
+    },
+    "Dumbfounded": {
+      "count": 505,
+      "rarity": 5.05,
+      "score": 19.801980198019802
+    },
+    "Bored": {
+      "count": 2272,
+      "rarity": 22.72,
+      "score": 4.401408450704225
+    },
+    "Small Grin": {
+      "count": 272,
+      "rarity": 2.72,
+      "score": 36.76470588235294
+    },
+    "Bored Unshaven Cigarette": {
+      "count": 438,
+      "rarity": 4.38,
+      "score": 22.831050228310502
+    },
+    "Bored Unshaven": {
+      "count": 1551,
+      "rarity": 15.51,
+      "score": 6.447453255963895
+    },
+    "Rage": {
+      "count": 266,
+      "rarity": 2.66,
+      "score": 37.59398496240602
+    },
+    "Phoneme Vuh": {
+      "count": 333,
+      "rarity": 3.33,
+      "score": 30.030030030030026
+    },
+    "Phoneme  ooo": {
+      "count": 255,
+      "rarity": 2.55,
+      "score": 39.21568627450981
+    },
+    "Bored Pipe": {
+      "count": 132,
+      "rarity": 1.32,
+      "score": 75.75757575757576
+    },
+    "Jovial": {
+      "count": 296,
+      "rarity": 2.96,
+      "score": 33.78378378378378
+    },
+    "Bored Pizza": {
+      "count": 50,
+      "rarity": 0.5,
+      "score": 200
+    },
+    "Phoneme Wah": {
+      "count": 163,
+      "rarity": 1.63,
+      "score": 61.34969325153375
+    },
+    "Grin Multicolored": {
+      "count": 116,
+      "rarity": 1.16,
+      "score": 86.20689655172414
+    },
+    "Bored Unshaven Cigar": {
+      "count": 94,
+      "rarity": 0.94,
+      "score": 106.38297872340425
+    },
+    "Bored Dagger": {
+      "count": 49,
+      "rarity": 0.49,
+      "score": 204.08163265306123
+    },
+    "Bored Unshaven Kazoo": {
+      "count": 61,
+      "rarity": 0.61,
+      "score": 163.93442622950818
+    },
+    "Bored Cigar": {
+      "count": 121,
+      "rarity": 1.21,
+      "score": 82.64462809917356
+    },
+    "Bored Kazoo": {
+      "count": 74,
+      "rarity": 0.74,
+      "score": 135.13513513513513
+    },
+    "Bored Unshaven Pizza": {
+      "count": 26,
+      "rarity": 0.26,
+      "score": 384.61538461538464
+    },
+    "Bored Party Horn": {
+      "count": 88,
+      "rarity": 0.88,
+      "score": 113.63636363636363
+    },
+    "Bored Bubblegum": {
+      "count": 119,
+      "rarity": 1.19,
+      "score": 84.03361344537815
+    },
+    "Phoneme Oh": {
+      "count": 237,
+      "rarity": 2.37,
+      "score": 42.19409282700422
+    },
+    "Grin Gold Grill": {
+      "count": 91,
+      "rarity": 0.91,
+      "score": 109.89010989010988
+    },
+    "Bored Unshaven Pipe": {
+      "count": 101,
+      "rarity": 1.01,
+      "score": 99.00990099009901
+    },
+    "Bored Unshaven Bubblegum": {
+      "count": 65,
+      "rarity": 0.65,
+      "score": 153.84615384615384
+    },
+    "Bored Unshaven Dagger": {
+      "count": 28,
+      "rarity": 0.28,
+      "score": 357.14285714285717
+    },
+    "Grin Diamond Grill": {
+      "count": 78,
+      "rarity": 0.78,
+      "score": 128.2051282051282
+    },
+    "Bored Unshaven Party horn": {
+      "count": 45,
+      "rarity": 0.45,
+      "score": 222.22222222222223
+    }
+  },
+  "Eyes": {
+    "count": 10000,
+    "rarity": 100,
+    "score": 1,
+    "None": {
+      "count": 0,
+      "rarity": 0,
+      "score": null
+    },
+    "X Eyes": {
+      "count": 243,
+      "rarity": 2.43,
+      "score": 41.1522633744856
+    },
+    "Blue Beams": {
+      "count": 49,
+      "rarity": 0.49,
+      "score": 204.08163265306123
+    },
+    "3d": {
+      "count": 487,
+      "rarity": 4.87,
+      "score": 20.53388090349076
+    },
+    "Bored": {
+      "count": 1714,
+      "rarity": 17.14,
+      "score": 5.834305717619603
+    },
+    "Closed": {
+      "count": 710,
+      "rarity": 7.1,
+      "score": 14.084507042253522
+    },
+    "Crazy": {
+      "count": 407,
+      "rarity": 4.07,
+      "score": 24.57002457002457
+    },
+    "Angry": {
+      "count": 432,
+      "rarity": 4.32,
+      "score": 23.148148148148145
+    },
+    "Robot": {
+      "count": 350,
+      "rarity": 3.5,
+      "score": 28.57142857142857
+    },
+    "Sleepy": {
+      "count": 751,
+      "rarity": 7.51,
+      "score": 13.315579227696405
+    },
+    "Eyepatch": {
+      "count": 333,
+      "rarity": 3.33,
+      "score": 30.030030030030026
+    },
+    "Bloodshot": {
+      "count": 846,
+      "rarity": 8.46,
+      "score": 11.82033096926714
+    },
+    "Wide Eyed": {
+      "count": 549,
+      "rarity": 5.49,
+      "score": 18.214936247723134
+    },
+    "Coins": {
+      "count": 479,
+      "rarity": 4.79,
+      "score": 20.876826722338205
+    },
+    "Zombie": {
+      "count": 308,
+      "rarity": 3.08,
+      "score": 32.467532467532465
+    },
+    "Cyborg": {
+      "count": 108,
+      "rarity": 1.08,
+      "score": 92.59259259259258
+    },
+    "Hypnotized": {
+      "count": 220,
+      "rarity": 2.2,
+      "score": 45.45454545454546
+    },
+    "Holographic": {
+      "count": 151,
+      "rarity": 1.51,
+      "score": 66.2251655629139
+    },
+    "Sunglasses": {
+      "count": 352,
+      "rarity": 3.52,
+      "score": 28.409090909090907
+    },
+    "Sad": {
+      "count": 551,
+      "rarity": 5.51,
+      "score": 18.148820326678766
+    },
+    "Heart": {
+      "count": 394,
+      "rarity": 3.94,
+      "score": 25.38071065989848
+    },
+    "Scumbag": {
+      "count": 233,
+      "rarity": 2.33,
+      "score": 42.918454935622314
+    },
+    "Blindfold": {
+      "count": 264,
+      "rarity": 2.64,
+      "score": 37.87878787878788
+    },
+    "Laser Eyes": {
+      "count": 69,
+      "rarity": 0.69,
+      "score": 144.92753623188406
+    }
+  },
+  "Hat": {
+    "count": 7744,
+    "rarity": 77.44,
+    "score": 1.2913223140495869,
+    "None": {
+      "count": 2256,
+      "rarity": 22.56,
+      "score": 4.432624113475177
+    },
+    "Sea Captain's Hat": {
+      "count": 304,
+      "rarity": 3.04,
+      "score": 32.89473684210526
+    },
+    "Party Hat 2": {
+      "count": 107,
+      "rarity": 1.07,
+      "score": 93.45794392523365
+    },
+    "Bayc Flipped Brim": {
+      "count": 231,
+      "rarity": 2.31,
+      "score": 43.29004329004329
+    },
+    "S&m Hat": {
+      "count": 235,
+      "rarity": 2.35,
+      "score": 42.5531914893617
+    },
+    "Stuntman Helmet": {
+      "count": 157,
+      "rarity": 1.57,
+      "score": 63.69426751592357
+    },
+    "Beanie": {
+      "count": 578,
+      "rarity": 5.78,
+      "score": 17.301038062283737
+    },
+    "Seaman's Hat": {
+      "count": 420,
+      "rarity": 4.2,
+      "score": 23.809523809523807
+    },
+    "Bayc Hat Red": {
+      "count": 119,
+      "rarity": 1.19,
+      "score": 84.03361344537815
+    },
+    "Laurel Wreath": {
+      "count": 72,
+      "rarity": 0.72,
+      "score": 138.88888888888889
+    },
+    "Police Motorcycle Helmet": {
+      "count": 130,
+      "rarity": 1.3,
+      "score": 76.92307692307692
+    },
+    "Girl's Hair Pink": {
+      "count": 105,
+      "rarity": 1.05,
+      "score": 95.23809523809523
+    },
+    "Horns": {
+      "count": 252,
+      "rarity": 2.52,
+      "score": 39.682539682539684
+    },
+    "Commie Hat": {
+      "count": 304,
+      "rarity": 3.04,
+      "score": 32.89473684210526
+    },
+    "Bayc Hat Black": {
+      "count": 228,
+      "rarity": 2.28,
+      "score": 43.859649122807014
+    },
+    "Fez": {
+      "count": 377,
+      "rarity": 3.77,
+      "score": 26.525198938992045
+    },
+    "Army Hat": {
+      "count": 294,
+      "rarity": 2.94,
+      "score": 34.013605442176875
+    },
+    "Halo": {
+      "count": 324,
+      "rarity": 3.24,
+      "score": 30.8641975308642
+    },
+    "Bowler": {
+      "count": 262,
+      "rarity": 2.62,
+      "score": 38.167938931297705
+    },
+    "Spinner Hat": {
+      "count": 181,
+      "rarity": 1.81,
+      "score": 55.24861878453038
+    },
+    "Baby's Bonnet": {
+      "count": 158,
+      "rarity": 1.58,
+      "score": 63.291139240506325
+    },
+    "Fisherman's Hat": {
+      "count": 345,
+      "rarity": 3.45,
+      "score": 28.98550724637681
+    },
+    "Girl's Hair Short": {
+      "count": 150,
+      "rarity": 1.5,
+      "score": 66.66666666666667
+    },
+    "King's Crown": {
+      "count": 77,
+      "rarity": 0.77,
+      "score": 129.87012987012986
+    },
+    "Bunny Ears": {
+      "count": 195,
+      "rarity": 1.95,
+      "score": 51.282051282051285
+    },
+    "Ww2 Pilot Helm": {
+      "count": 110,
+      "rarity": 1.1,
+      "score": 90.90909090909092
+    },
+    "Bandana Blue": {
+      "count": 89,
+      "rarity": 0.89,
+      "score": 112.35955056179776
+    },
+    "Prussian Helmet": {
+      "count": 130,
+      "rarity": 1.3,
+      "score": 76.92307692307692
+    },
+    "Sushi Chef Headband": {
+      "count": 187,
+      "rarity": 1.87,
+      "score": 53.475935828877
+    },
+    "Irish Boho": {
+      "count": 225,
+      "rarity": 2.25,
+      "score": 44.44444444444444
+    },
+    "Short Mohawk": {
+      "count": 318,
+      "rarity": 3.18,
+      "score": 31.446540880503143
+    },
+    "Cowboy Hat": {
+      "count": 354,
+      "rarity": 3.54,
+      "score": 28.248587570621467
+    },
+    "Safari": {
+      "count": 182,
+      "rarity": 1.82,
+      "score": 54.94505494505494
+    },
+    "Trippy Captain's Hat": {
+      "count": 65,
+      "rarity": 0.65,
+      "score": 153.84615384615384
+    },
+    "Faux Hawk": {
+      "count": 136,
+      "rarity": 1.36,
+      "score": 73.52941176470588
+    },
+    "Vietnam Era Helmet": {
+      "count": 223,
+      "rarity": 2.23,
+      "score": 44.84304932735426
+    },
+    "Party Hat 1": {
+      "count": 120,
+      "rarity": 1.2,
+      "score": 83.33333333333333
+    }
+  }
+}
